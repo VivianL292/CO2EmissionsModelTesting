@@ -1,0 +1,7 @@
+transformers 
+datasets
+codecarbon
+openai
+google-generativeai
+sentence-transformers
+scipy
