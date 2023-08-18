@@ -1,3 +1,3 @@
 # README
 
-This folder contains python notebooks that support the experiments in the paper.
+This folder contains a python notebook supporting the experiment in the paper.
